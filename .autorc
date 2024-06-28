@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Srikar04",
+  "repo": "container-ih4org0",
+  "name": "Srikar04",
+  "email": "msrikar0403@gmail.com",
+}
